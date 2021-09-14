@@ -1,5 +1,5 @@
 # ChatApplication
-<a href="https://benaizenstein-chat-application.herokuapp.com/">Link</a>
+<a href="https://benaizenstein-chat-application.herokuapp.com/">Chat Application Link</a>
 
 chat application using socket io
 nodejs
